@@ -37,8 +37,8 @@ article header {
 
 article header p {
   font-style: italic;
-  margin-top: .2rem;
-  margin-bottom: 1.5rem;
+  margin-top: .0rem;
+  margin-bottom: 1.3rem;
   font-size: .90rem;
 }
 
@@ -48,6 +48,7 @@ article > p:last-child {
 
 article > p {
   margin-top: 1.3rem;
+  font-size: .90rem;
 }
 
 blockquote {
